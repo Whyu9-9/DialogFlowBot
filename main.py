@@ -19,7 +19,7 @@ db = mysql.connector.connect(
             auth_plugin="mysql_native_password")
 
 #token dari bot setelah daftar di @botfather
-TOKEN = "1454394622:AAELC6UkG7DmqQslnGBl9AjYDO1vIuyBoX8"
+TOKEN = "Token Here"
 #url dari bot
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 
